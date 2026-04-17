@@ -1,2 +1,3 @@
 # TESTS
-Linea agregada
+Linea agregada remota
+Linea de inicializacion
